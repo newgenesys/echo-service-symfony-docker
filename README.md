@@ -5,7 +5,7 @@ This is a complete stack for running Symfony into a Docker container using docke
 It is composed by 4 containers:
 
 - `nginx`, acting as the webserver.
-- `php`, the PHP-FPM container with the 8.0 version of PHP.
+- `php`, the PHP-FPM container with the 8.1 version of PHP.
 - `db` which is the MySQL database container with a **MySQL 8.0** image.
 - `app` which is the ech-service symfony app to be setup
 
