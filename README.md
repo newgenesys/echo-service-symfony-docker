@@ -17,4 +17,4 @@ Start the project!
 
     docker compose up -d
 
-Browse `https://localhost`, your Docker configuration is ready!
+Browse `https://localhost`, the Docker symfony app and all configuration is ready!
